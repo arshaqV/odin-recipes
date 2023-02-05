@@ -2,6 +2,12 @@ body {
     font-family: Garamond, serif;
     background-color: brown;
     color: blanchedalmond;
+    align-content: center;
+    text-align: center;
+}
+
+h3 {
+    font-style: italic;
 }
 
 img {
@@ -13,5 +19,6 @@ ol, ul {
     background-color: blanchedalmond;
     color: black;
 }
+
 
 
