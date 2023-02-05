@@ -1,0 +1,17 @@
+body {
+    font-family: Garamond, serif;
+    background-color: brown;
+    color: blanchedalmond;
+}
+
+img {
+    height:auto;
+    width:500px;
+}
+
+ol, ul {
+    background-color: blanchedalmond;
+    color: black;
+}
+
+
